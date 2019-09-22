@@ -57,11 +57,11 @@ Issue a pull request back into the original repo, the one from which your forked
 **Note**: This assignment may *only* be submitted via GitHub. 🚫 **_No other form of submission will be accepted_**.
 
 ## Grading
-| Item                                                               | Points                                    |
-|--------------------------------------------------------------------|:-----------------------------------------:|
-| **Kebab case used for names of files and folders**                 | `10`                                      |
-| **At least the amount of commits mentioned in these instructions** | `10`                                      |
-| **Branches present**                                               | `20`                                      |
-| **`name-adding` branch merged into `master`**                      | `20`                                      |
-| **Outlining algorithm is logical**                                 | `20`                                      |
-| **HTML syntax valid**                                              | `20`                                      |
+| Item                                                             | Points |
+|------------------------------------------------------------------|:------:|
+| *Kebab case used for names of files and folders*                 | `10`   |
+| *At least the amount of commits mentioned in these instructions* | `10`   |
+| *Branches present*                                               | `20`   |
+| *`name-adding` branch merged into `master`*                      | `20`   |
+| *Outlining algorithm is logical*                                 | `20`   |
+| *HTML syntax valid*                                              | `20`   |

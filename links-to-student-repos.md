@@ -22,4 +22,4 @@
 `[Repo Link](URL HERE)`
 
 ## Rahman Chambers
-`[https://github.com/Rahman4567/assignment-1--foundations--mwd-110--fall-2019.git](file:///Users/rocopapi/Documents/examples--foundations--mwd-110--uhart--fall-2019/18-september-2019/index.html)`
+`[Repo Link](https://github.com/Rahman4567/assignment-1--foundations--mwd-110--fall-2019.git)`

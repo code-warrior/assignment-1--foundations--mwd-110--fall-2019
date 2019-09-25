@@ -4,7 +4,7 @@
 `[Repo Link](URL HERE)`
 
 ## Michael Haughton
-`[https://github.com/Michael-Haughton/assignment-1--foundations--mwd-110--fall-2019.git](file:///C:/Users/micha/OneDrive/Documents/GitHub/assignment-1--foundations--mwd-110--fall-2019/index.html)`
+`[Repo Link](https://github.com/Michael-Haughton/outlining-algorithm)`
 
 ## David Jurich
 `[Repo Link](URL HERE)`

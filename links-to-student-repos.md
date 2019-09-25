@@ -10,7 +10,7 @@
 `[Repo Link](URL HERE)`
 
 ## Timothy Kodz
-`[Repo Link](URL HERE)`
+`[Repo Link](https://github.com/TimothyKodz/outlining-algorithm)`
 
 ## Steven Malley
 `[Repo Link](URL HERE)`

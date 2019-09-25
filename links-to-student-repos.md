@@ -19,4 +19,4 @@
 `[Repo Link](URL HERE)`
 
 ## Angel Sanango
-`[Repo Link](URL HERE)`
+`[Repo Link](https://github.com/angel-sanango/outlining-algorithm)`

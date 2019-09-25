@@ -7,7 +7,7 @@
 `[Repo Link](URL HERE)`
 
 ## David Jurich
-`[Repo Link](URL HERE)`
+`[Repo Link](https://github.com/DavidJurich/outlining-algorithm)`
 
 ## Timothy Kodz
 `[Repo Link](URL HERE)`

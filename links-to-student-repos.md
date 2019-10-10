@@ -19,4 +19,8 @@
 `[Repo Link](URL HERE)`
 
 ## Angel Sanango
+
 `[Repo Link](https://github.com/angel-sanango/outlining-algorithm)`
+
+## Rahman Chambers
+`[Repo Link](https://github.com/Rahman4567/Outlining-Algorithm)`

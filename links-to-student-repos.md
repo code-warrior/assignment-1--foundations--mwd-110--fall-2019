@@ -4,7 +4,7 @@
 `[Repo Link](URL HERE)`
 
 ## Michael Haughton
-`[Repo Link](URL HERE)`
+`[Repo Link](https://github.com/Michael-Haughton/outlining-algorithm)`
 
 ## David Jurich
 `[Repo Link](URL HERE)`
